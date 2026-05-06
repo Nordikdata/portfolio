@@ -1,0 +1,146 @@
+[
+  {
+    "post_id": "Hmbown/DeepSeek-TUI",
+    "title": "Hmbown/DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "meta": {
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": "6,504"
+    }
+  },
+  {
+    "post_id": "ruvnet/ruflo",
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "meta": {
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": "43,033"
+    }
+  },
+  {
+    "post_id": "virattt/dexter",
+    "title": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "meta": {
+      "description": "An autonomous agent for deep financial research",
+      "stars": "23,604"
+    }
+  },
+  {
+    "post_id": "docusealco/docuseal",
+    "title": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "meta": {
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": "13,786"
+    }
+  },
+  {
+    "post_id": "bwya77/vscode-dark-islands",
+    "title": "bwya77/vscode-dark-islands",
+    "url": "https://github.com/bwya77/vscode-dark-islands",
+    "meta": {
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "stars": "7,702"
+    }
+  },
+  {
+    "post_id": "mksglu/context-mode",
+    "title": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "meta": {
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "stars": "12,845"
+    }
+  },
+  {
+    "post_id": "cocoindex-io/cocoindex",
+    "title": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "meta": {
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "stars": "8,287"
+    }
+  },
+  {
+    "post_id": "msitarzewski/agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "meta": {
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "93,389"
+    }
+  },
+  {
+    "post_id": "jwasham/coding-interview-university",
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "meta": {
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": "345,650"
+    }
+  },
+  {
+    "post_id": "D4Vinci/Scrapling",
+    "title": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "meta": {
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": "44,857"
+    }
+  },
+  {
+    "post_id": "Arindam200/awesome-ai-apps",
+    "title": "Arindam200/awesome-ai-apps",
+    "url": "https://github.com/Arindam200/awesome-ai-apps",
+    "meta": {
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "stars": "11,076"
+    }
+  },
+  {
+    "post_id": "AIDC-AI/Pixelle-Video",
+    "title": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "meta": {
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": "11,496"
+    }
+  },
+  {
+    "post_id": "LearningCircuit/local-deep-research",
+    "title": "LearningCircuit/local-deep-research",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "meta": {
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars": "5,008"
+    }
+  },
+  {
+    "post_id": "browserbase/skills",
+    "title": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "meta": {
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars": "2,308"
+    }
+  },
+  {
+    "post_id": "forrestchang/andrej-karpathy-skills",
+    "title": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "meta": {
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "113,366"
+    }
+  },
+  {
+    "post_id": "PriorLabs/TabPFN",
+    "title": "PriorLabs/TabPFN",
+    "url": "https://github.com/PriorLabs/TabPFN",
+    "meta": {
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "stars": "6,310"
+    }
+  }
+]
