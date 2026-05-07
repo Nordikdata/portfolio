@@ -12,6 +12,8 @@ Production-shape web scraper with retries, dedup, SQLite storage, CSV/JSON expor
 ### [excel-report/](excel-report/)
 CSV → branded multi-sheet XLSX report with KPIs, conditional formatting, pivot summary, and charts. The deliverable I build for clients with raw export data who want a polished workbook.
 
+![excel preview](excel-report/sample/sheet-summary.png)
+
 ### [claude-classifier/](claude-classifier/)
 Batch-classify any CSV column with the Claude API. Built-in cost cap, token tracking, resume support. ~0,05 € to classify 1000 product reviews with Sonnet 4.5.
 

@@ -38,12 +38,20 @@ python scraper.py --target github --export csv --out trending.csv
 python scraper.py --target hn --export json --out top.json
 ```
 
-Sample output (`trending.csv`):
+## Real sample output
+
+Live runs against HN front page and GitHub Trending — committed in [`sample/`](sample/).
+
+[`sample/hn-top.csv`](sample/hn-top.csv) — 30 stories, generated `python scraper.py --target hn --export csv --out sample/hn-top.csv`:
 
 ```csv
 post_id,title,url,meta
-"openai/codex","openai/codex","https://github.com/openai/codex","{""description"": ""..."", ""stars"": ""3,420""}"
+48023861,Three Inverse Laws of AI,https://susam.net/inverse-laws-of-robotics.html,"{""score"": ""81 points""}"
+48024364,UK: Two millionth electric car registered as market rebounds strongly,https://www.smmt.co.uk/...,"{""score"": ""21 points""}"
+48019163,Async Rust never left the MVP state,https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state,"{""score"": ""345 points""}"
 ```
+
+[`sample/trending.json`](sample/trending.json) — same shape, GitHub Trending. Re-run any time, dedup keeps SQLite clean.
 
 ## What you get when you hire me
 

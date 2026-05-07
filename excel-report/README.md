@@ -15,6 +15,19 @@ A multi-sheet workbook:
 
 All branded with your colors (configurable in `report.py`).
 
+## Preview
+
+Generated from `sample/sales.csv` (20 orders) — what your boss actually sees when they open the workbook:
+
+| Sheet | Preview |
+| --- | --- |
+| Summary (KPIs) | ![summary](sample/sheet-summary.png) |
+| Data (conditional formatting) | ![data](sample/sheet-data.png) |
+| By region (pivot + bar chart) | ![by region](sample/sheet-by-region.png) |
+| Daily revenue (line chart) | ![daily](sample/sheet-daily-revenue.png) |
+
+The actual file is in [sample/report.xlsx](sample/report.xlsx) — open it in Excel to see formatting, formulas, and live charts.
+
 ## Quick start
 
 ```bash
